@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color:rgb(250, 242, 242);
+    font-size: 40px;
+    height:600px;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 30px;
+}
+img{
+    padding-top:50px;
+    width: 500px;
+    height:500px;
+    border-radius: 100%;;
+}
+button{
+    background-color: white;
+    color:black;
+    padding: 12px;
+    text-align: center;;
+    text-transform: capitalize;
+}
